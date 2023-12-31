@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alex-toy, a C# / Angular developper.
+- 👋 Hi, I’m @alex-toy, a C# / Angular / Vue developper.
 - 👀 I’m interested in Artificial Intelligence, NLP, Computer Vision, Data Science, Business Intelligence, Big Data, Robotics...
 - 🌱 I’m currently studying **Data Engineering** with Azure (**Azure Data Lake**, **Azure Synapse**, **Azure Databricks**, **Azure Data Factory**...)
 - 💞️ I’m looking to collaborate on start ups and new businesses, with innovative and cutting-edge technologies
